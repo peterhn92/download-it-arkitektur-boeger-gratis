@@ -1,2 +1,2 @@
-# IT-arkitektur-b-ger-eaaa.dk
-EAAA.dk IT-arkitektur kursus bøger 
+# Download piratkopierede bøger til IT-arkitektur på EAAA
+
