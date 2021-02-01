@@ -1,2 +1,2 @@
-# Download piratkopierede bøger til IT-arkitektur på EAAA
+# Download piratkopierede bøger til IT-arkitektur på Erhvervsakademi Aarhus (eaaa.dk)
 
