@@ -4,7 +4,5 @@ _Nogle bøger er komprimeret (.zip) fordi at de fylder mere end Github's maksima
 ## Sådan gør du
 Klik på [dette link](https://github.com/krisp99/download-it-arkitektur-boeger-gratis/archive/main.zip). Derefter unzip filen.
 ## Bøger der mangler
-
-### 1 Semester
-Projektledelse, 1. udgave
+Projektledelse, 1. udgave (1 Semester)
 
